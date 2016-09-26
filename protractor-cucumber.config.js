@@ -6,7 +6,8 @@ exports.config = {
     framework: 'custom',
     frameworkPath: 'C:/Users/dlammers/AppData/Roaming/npm/node_modules/protractor-cucumber-framework',
     cucumberOpts: {
-        format: "pretty",
-        tags: "~@ignore"
-    }
+        require: ["example/features/step_definitions/homepage/steps.js"],
+        format: "summary"
+    },
+    specs: ['example/features/*.feature'],
 };
