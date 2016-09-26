@@ -22,7 +22,9 @@ Install nodejs to be able to use npm package manager
 #### Install protractor cucumber framework
 
 navigate to protractor-cucumber-framework folder
+
 open command prompt in the folder (Shift-right click)
+
 ``` npm install ```
 
 #### Update webdriver
