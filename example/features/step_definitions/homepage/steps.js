@@ -3,7 +3,7 @@ var support = require('../support');
 var steps = function() {
 
   this.Given(/^I am on the homepage$/, function(callback) {
-    support.get(this, 'http://www.ns.nl', function(result){
+    support.get(this, 'https://www.ns.nl', function(result){
       setTimeout(callback, 1000);
     });
   });

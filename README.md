@@ -5,11 +5,8 @@ protractor-cucumber allows one to drive protractor tests using cucumber
 
 ## Installation
 
-Install npm package to dev dependencies
+Install nodejs to be able to use npm package manager
 
-```
-npm install protractor-cucumber --save-dev
-```
 
 ## Usage
 
@@ -21,6 +18,12 @@ npm install protractor-cucumber --save-dev
 #### Install protractor
 
 ``` npm install -g protractor ```
+
+#### Install protractor cucumber framework
+
+navigate to protractor-cucumber-framework folder
+open command prompt in the folder (Shift-right click)
+``` npm install ```
 
 #### Update webdriver
 
