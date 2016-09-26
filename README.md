@@ -36,6 +36,10 @@ open command prompt in the folder (Shift-right click)
 
 ``` webdriver-manager start ```
 
+#### Download WebStorm IDE
+
+Download and install WebStrom IDE from jetbrains website
+
 #### Create a feature file
 
 
