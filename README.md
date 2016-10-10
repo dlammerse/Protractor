@@ -35,3 +35,5 @@ Install nodejs to be able to use npm package manager
 #### Download WebStorm IDE
 
 Download and install WebStrom IDE from jetbrains website
+
+#### Run configurations ####
