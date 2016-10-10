@@ -36,4 +36,14 @@ Install nodejs to be able to use npm package manager
 
 Download and install WebStrom IDE from jetbrains website
 
+- VCS menu
+- Checkout from version control
+- Git
+- Git repository url: https://github.com/dlammerse/protractor.git
+
 #### Run configurations ####
+
+Use below run configurations:
+
+![alt tag](https://github.com/dlammerse/Protractor/blob/master/protractor_conf.JPG)
+
