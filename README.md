@@ -41,9 +41,17 @@ Download and install WebStrom IDE from jetbrains website
 - Git
 - Git repository url: https://github.com/dlammerse/protractor.git
 
+#### Change protractor-cucumber.config.js  ####
+
+Set frameworkPath to your own 'C:/Users/.../AppData/Roaming/npm/node_modules/protractor-cucumber-framework
+
+
+
 #### Run configurations ####
 
-Use below run configurations:
+Use below run configurations (Run menu -> Edit Configurations):
+
+Choose node.js in the right panel
 
 ![alt tag](https://github.com/dlammerse/Protractor/blob/master/protractor_conf.JPG)
 
